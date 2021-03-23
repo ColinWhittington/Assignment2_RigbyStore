@@ -3,3 +3,6 @@ Rigby Store is a C# GUI app that allows the user to navigate through a store dat
 
 # Execution
 To execute this app, open the profile solution file in visual studio, run the build and then compile it to execute it.
+
+# Note
+The UML and output are inside the .doc file. 
